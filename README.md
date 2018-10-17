@@ -1,8 +1,8 @@
 # _Calculator_
 
-#### _single Webpage for Epicodus, 10.15.2018_
+#### _single Webpage for Epicodus, 10.17.2018_
 
-#### By _**Tanner Damron, Natty Ayana and Kaveh Saleminejad**_
+#### By _**Kenny Wolfenberger and Kaveh Saleminejad**_
 
 ## Description
 
@@ -17,7 +17,7 @@ _A calculator using js_
 
 ## Support and contact details
 
-_Contact Tanner Damron - tanner.mdamron@gmail.com or Natty Ayana - nattyayana@gmail.com or Kaveh Saleminejad - lcaveh@gmail.com._
+_Contact Kenny Wolfenberger - kennywolfenberger@gmail.com or Kaveh Saleminejad - lcaveh@gmail.com._
 
 ## GitHub page's links
 
@@ -26,9 +26,11 @@ _Contact Tanner Damron - tanner.mdamron@gmail.com or Natty Ayana - nattyayana@gm
 * _HTML_
 * _CSS_
 * _Javascript_
+* _jQuery_
+* _Bootstrap_
 
 ### License
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2018 **_Tanner Damron, Natty Ayana, and Kaveh Saleminejad_**
+Copyright (c) 2018 **_Kenny Wolfenberger and Kaveh Saleminejad_**
