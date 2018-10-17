@@ -1,0 +1,16 @@
+form {
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  padding: 15px;
+  width: 50%;
+}
+
+#output {
+  font-size: 25px;
+  font-family: monospace;
+}
+
+h4 {
+  font-family: cursive;
+}
